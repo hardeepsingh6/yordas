@@ -1,5 +1,7 @@
 To run this search task, use below file
-yordas/application/views/welcome_message.php
+
+http://[::1]/codeignitor/welcome
+file used : yordas/application/views/welcome_message.php
 
 This will see you all the details related to that EC number.
 
